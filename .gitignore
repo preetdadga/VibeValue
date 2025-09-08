@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+
+# PyTorch / Transformers
+*.bin
+*.pt
+*.h5
+*.ckpt
+
+# Model outputs
+outputs/
+saved_model/
+
+# Datasets cache (from HuggingFace/datasets library)
+cache/
+~/
+
+# Logs
+*.log
+wandb/
