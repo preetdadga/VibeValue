@@ -1,0 +1,9 @@
+{
+  "base_model": "yiyanghkust/finbert-pretrain",
+  "learning_rate": 2e-05,
+  "batch_size": 16,
+  "num_epochs": 2,
+  "class_weighted": false,
+  "debug_subset": null,
+  "seed": 42
+}

@@ -1,0 +1,1 @@
+Baseline: FinBERT (yiyanghkust/finbert-pretrain, no prior Financial PhraseBank exposure) fine-tune, full dataset, no class weighting

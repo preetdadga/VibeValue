@@ -1,0 +1,1 @@
+v3: same config as corrected v2, more epochs with early stopping to find where validation performance plateaus
