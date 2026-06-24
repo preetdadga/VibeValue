@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+-r base.txt
+accelerate>=1.1.0
+datasets
+transformers
+torch
+matplotlib
